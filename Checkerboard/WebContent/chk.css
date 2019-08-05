@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+*{
+    box-sizing: border-box; 
+}
+
+
+#back {
+	padding: 10px;
+	background-color: #80ADD7;
+	margin: auto;
+}
+.container{
+	display: block;
+	text-align: center;
+}
+.box1{
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	background-color: #EBF2EA;
+}
+.box2{
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	background-color: #A7E9C0;
+}
+h1{
+	text-align: center;
+}
